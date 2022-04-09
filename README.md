@@ -14,6 +14,12 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I loved playing video games but stressed in choosing IT carreers
 
+<p align="center">
+    <a href="https://github.com/Riuseigi/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Riuseigi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Riuseigi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 ## ⌨ Languages and Tools:
 
 <p align="center"> 
