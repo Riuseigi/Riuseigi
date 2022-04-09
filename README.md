@@ -14,7 +14,18 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I loved playing video games but stressed in choosing IT carreers
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riuseigi&show_icons=true&theme=radical)
+## ⌨ Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fpython-logo&psig=AOvVaw2bMYIZrO1hgscmj_MEKclP&ust=1649565244923000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPjoqMSThvcCFQAAAAAdAAAAABAD"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/bash.png"/> </a> 
+</p>
 
 
 
