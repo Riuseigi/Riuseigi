@@ -22,7 +22,16 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
+## 📊 My Github Stats
 
+  <br/>
+    <a href="https://github.com/Riuseigi/github-readme-stats"><img alt="Riuseigi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samueluy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Riuseigi/github-readme-stats"><img alt="Riuseigi's  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueluy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
 
 
 <!--
