@@ -1,3 +1,4 @@
+<a href="#"><img width="100%" height="auto" src="![image](https://user-images.githubusercontent.com/99804611/162556244-24f74479-1844-4382-84c9-7edf3585e90f.png)" height="175px"/></a>
 ### Yahallo 👋
 
 - 🔭 I’m currently working on my capstone project 
