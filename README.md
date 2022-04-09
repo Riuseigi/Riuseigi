@@ -1,5 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-### Yahallo 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h3 align="center">I'm a passionate Full Stack Web Developer.</h3>
+
+
+
 
 - 🔭 I’m currently working on my capstone project 
 - 🌱 I’m currently learning HTML, CSS, CSS Frameworks, and  Javascript.
