@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/free-vector/programmer-with-code-cat-book-coffee-vector-clip-art-illustration_138676-92.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/874869312584814612/968077591531642900/IMG_20220425_171425.JPG?width=910&height=683" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Riuseigi</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer.</h3>
 
