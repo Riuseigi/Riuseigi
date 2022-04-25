@@ -45,7 +45,8 @@
 
 <br/>
 
-##Followers
+## ❤  Followers
+
 <a href="https://github.com/Riuseigi?tab=followers"><img src="https://img.shields.io/github/followers/Riuseigi?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
