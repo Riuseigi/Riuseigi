@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on my capstone project 
+- 🔭 I’m currently taking courses online
 - 🌱 I’m currently learning HTML, CSS, CSS Frameworks, and  Javascript.
 - 👯 I’m looking to collaborate on with anyone who's interested learning and growing.
 - 🤔 I’m looking for help with Web Development
