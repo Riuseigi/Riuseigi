@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/874869312584814612/968077591531642900/IMG_20220425_171425.JPG?width=910&height=683" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/876260444703187016/1019198035072393226/IMG_20220911_153023.jpg?width=630&height=473" height="175px"/></a>
 <h1 align="center">Hi , I'm Riuseigi</h1>
 <h3 align="center">I'm a passionate Front End Web Developer.</h3>
 
