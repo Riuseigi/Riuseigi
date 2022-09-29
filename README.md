@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Riuseigi</h1>
+<h1 align="center">Hi , Troy Liam Jarata</h1>
 <h3 align="center">I'm a passionate Front End Web Developer.</h3>
 
 
