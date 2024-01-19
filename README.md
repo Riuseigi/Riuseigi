@@ -12,7 +12,7 @@
 - 💬 Ask me about my progress in this journey
 - 📫 How to reach me: you can dm me at troyliamjarata@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I loved playing video games but stressed in choosing IT carreers
+
 
 <p align="center">
     <a href="https://github.com/Riuseigi/github-readme-streak-stats">
