@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi , I am Troy Liam Jarata</h1>
-<h3 align="center">I'm an Aspiring Front End Web Developer.</h3>
+<h3 align="center">Amateur Front End Web Developer.</h3>
 
 
 
 
 - 🔭 I’m currently taking courses online
-- 🌱 I’m currently learning Javascript and React JS.
+- 🌱 I’m currently learning Node JS backend side.
 - 👯 I’m looking to collaborate on with anyone who's interested learning and growing.
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about my progress in this journey
