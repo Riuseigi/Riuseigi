@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently taking courses online
-- 🌱 I’m currently learning Node JS backend side.
+- 🌱 I’m currently learning Laravel backend side.
 - 👯 I’m looking to collaborate on with anyone who's interested learning and growing.
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about my progress in this journey
