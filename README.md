@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi , I am Troy Liam Jarata</h1>
-<h3 align="center">Amateur Front End Web Developer.</h3>
+<h3 align="center">Front End Web Developer.</h3>
+<h4 align="center">transitioning....to full stack hehe.</h3>
 
 
 
