@@ -18,9 +18,6 @@
 
 </div>
 
----
-
-## 🕹️ PLAYER PROFILE
 
 
 
