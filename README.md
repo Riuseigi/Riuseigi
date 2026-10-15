@@ -55,7 +55,7 @@
 
 </div>
 
-## 📊 PLAYER STATS
+## 📊 STATS
 
 <div align="center">
 
