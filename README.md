@@ -22,7 +22,7 @@
 
 
 
-## ⚔️ SKILL INVENTORY
+## SKILL
 
 <!-- Add/remove badges to match your actual skills. Browse https://shields.io/ for options. -->
 
@@ -45,7 +45,7 @@
 
 </div>
 
-## 🔥 DAILY QUEST: KEEP THE STREAK
+## 
 
 <div align="center">
 
