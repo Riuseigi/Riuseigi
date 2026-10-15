@@ -105,6 +105,5 @@ STATUS     ● ONLINE (when I'm coding)
 ╰──────────────────────────────────────╯
 ```
 
-⭐ *Thanks for visiting my little corner of GitHub!* ⭐
 
 </div>
