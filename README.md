@@ -1,18 +1,7 @@
 
 <h1 align="center">Hi , I am Troy Liam Jarata</h1>
-<h3 align="center">Front End Web Developer.</h3>
-<h4 align="center">transitioning....to full stack hehe.</h3>
 
 
-
-
-- 🔭 I’m currently taking courses online
-- 🌱 I’m currently learning Laravel backend side.
-- 👯 I’m looking to collaborate on with anyone who's interested learning and growing.
-- 🤔 I’m looking for help with Web Development
-- 💬 Ask me about my progress in this journey
-- 📫 How to reach me: you can dm me at troyliamjarata@gmail.com
-- 😄 Pronouns: he/him
 
 
 <p align="center">
