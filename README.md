@@ -84,12 +84,5 @@ STATUS     ● ONLINE (when I'm coding)
 </div>
 
 
-```text
-╭──────────────────────────────────────╮
-│  +1 XP FOR EVERY NEW THING LEARNED  │
-│   KEEP BUILDING. KEEP LEVELING UP.  │
-╰──────────────────────────────────────╯
-```
-
 
 </div>
