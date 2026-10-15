@@ -9,13 +9,6 @@
 
 <!-- Retro terminal-inspired heading (editable text) -->
 
-```text
-╔══════════════════════════════════════════╗
-║  > HELLO WORLD!                        _  ║
-║  > PLAYER 1: TROY LIAM JARATA          █  ║
-║  > CLASS: FULL-STACK DEV   █  ║
-╚══════════════════════════════════════════╝
-```
 
 # 👾 Hi, I'm Troy Liam Jarata!
 
@@ -29,14 +22,7 @@
 
 ## 🕹️ PLAYER PROFILE
 
-```text
-[ CHARACTER STATUS ]
-ROLE       Front-End Developer → Full-Stack Developer
-QUEST      Keep learning and building useful apps
-PARTY      Open to collaboration
-PRONOUNS   He/Him
-STATUS     ● ONLINE (when I'm coding)
-```
+
 
 
 ## ⚔️ SKILL INVENTORY
