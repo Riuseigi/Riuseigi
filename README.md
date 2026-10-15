@@ -19,9 +19,6 @@
 
 # 👾 Hi, I'm Troy Liam Jarata!
 
-**Front-End Web Developer • Growing into Full-Stack Development**
-
-*Building, learning, and leveling up one commit at a time.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Riuseigi-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/Riuseigi)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:troyliamjarata@gmail.com)
