@@ -83,20 +83,6 @@ STATUS     ● ONLINE (when I'm coding)
 
 </div>
 
-## 🎮 SIDE QUESTS
-
-<!-- Optional: replace the placeholders below with actual project names and URLs. -->
-
-| Quest | Description | Status |
-|:--|:--|:--|
-| **Project One** | Add a short description and a link to your project. | 🛠️ In progress |
-| **Project Two** | Add another project or GitHub repository. | ✅ Complete |
-
-## ❤️ PARTY MEMBERS
-
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/Riuseigi?label=GitHub%20Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/Riuseigi?tab=followers)
 
 ```text
 ╭──────────────────────────────────────╮
