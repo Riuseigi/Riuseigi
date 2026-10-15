@@ -55,7 +55,7 @@
 
 </div>
 
-## 📊 STATS
+##  STATS
 
 <div align="center">
 
