@@ -15,15 +15,18 @@
 </div>
 
 ## A little reminder
+<div align="center">
 
-```text
+<pre>
 ┌──────────────────────────────────────────────┐
 │                                              │
 │  * Despite everything, it's                  │
 │    still you.                                │
 │                                              │
 └──────────────────────────────────────────────┘
-```
+</pre>
+
+</div>
 
 ## Tech I work with
 
