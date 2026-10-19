@@ -61,8 +61,4 @@
 
 ---
 
-```text
-> keep learning
-> keep building
-> keep going
-```
+
