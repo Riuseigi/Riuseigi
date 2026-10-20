@@ -49,18 +49,7 @@
 
 </div>
 
-## GitHub activity
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Riuseigi&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Riuseigi&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riuseigi&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-
-<sub>Language stats show the code in my public repositories, not my overall proficiency.</sub>
-
-</div>
 
 ---
 
