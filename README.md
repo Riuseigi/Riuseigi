@@ -41,7 +41,7 @@
 
 
 
-*Despite everything, it's still you.*
+
 
 </div>
 ## Tech I work with
