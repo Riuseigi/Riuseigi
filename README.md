@@ -39,13 +39,7 @@
 
 <br>
 
-<a href="https://open.spotify.com/track/5l2a2njegofITa07KRUROn">
-  <img
-    src="https://novatorem.vercel.app/api/spotify"
-    alt="Spotify Now Playing"
-    width="400"
-  />
-</a>
+
 
 *Despite everything, it's still you.*
 
