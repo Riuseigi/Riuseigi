@@ -28,6 +28,28 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://open.spotify.com/track/5l2a2njegofITa07KRUROn">
+  <img
+    src="https://img.shields.io/badge/♫_His_Theme-Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+    alt="His Theme on Spotify"
+  />
+</a>
+
+<br>
+
+<a href="https://open.spotify.com/track/5l2a2njegofITa07KRUROn">
+  <img
+    src="https://novatorem.vercel.app/api/spotify"
+    alt="Spotify Now Playing"
+    width="400"
+  />
+</a>
+
+*Despite everything, it's still you.*
+
+</div>
 ## Tech I work with
 
 <div align="center">
