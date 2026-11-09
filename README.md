@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Hi, I'm Troy Liam Jarata 👾
+# Hi, I'm Troy Liam Jarata
 
 **Building things, learning, and improving one commit at a time.**
 
