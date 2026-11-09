@@ -7,7 +7,7 @@
 
 # Hi, I'm Troy Liam Jarata 👾
 
-**Full-stack developer in progress · Building things, learning, and improving one commit at a time.**
+**Building things, learning, and improving one commit at a time.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Riuseigi-161b22?style=flat-square&logo=github)](https://github.com/Riuseigi)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-161b22?style=flat-square&logo=gmail)](mailto:troyliamjarata@gmail.com)
@@ -44,7 +44,7 @@
 
 
 </div>
-## Tech I work with
+### Tech I work with
 
 <div align="center">
 
